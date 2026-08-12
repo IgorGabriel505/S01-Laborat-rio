@@ -1,1 +1,1 @@
-# S01-Laborat-rio
+# S01-Laboratario
