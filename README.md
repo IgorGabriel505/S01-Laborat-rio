@@ -1,1 +1,1 @@
-# S01-Laboratario
+# S01-Laboratorio
