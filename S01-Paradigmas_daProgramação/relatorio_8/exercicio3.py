@@ -1,10 +1,4 @@
-# COMPOSIÇÃO: a Persona é criada DENTRO do __init__ do Lider.
-# Ela nasce junto com o Joker e só existe enquanto ele existir.
-#
-# AGREGAÇÃO: os Aliados são criados FORA do Lider (antes dele, no main)
-# e apenas recebidos como parâmetro em recrutar(). O Lider só guarda
-# uma referência a eles na _equipe, e eles continuam existindo
-# independentemente do Lider.
+
 
 
 class Persona:
